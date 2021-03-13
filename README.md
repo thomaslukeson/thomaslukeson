@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @thomaslukeson
+- 👀 I’m interested in NodeJS, Javascript, Python, Open Data and Nocode
+- 🌱 I’m currently learning Nocode
